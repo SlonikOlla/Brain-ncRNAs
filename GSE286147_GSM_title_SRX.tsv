@@ -1,0 +1,19 @@
+GSM	TITLE	TREATMENT	SRX
+GSM8718652	hPSC_RNA_1	D0 hPSC media	SRX27292384
+GSM8718653	hPSC_RNA_2	D0 hPSC media	SRX27292385
+GSM8718654	aNE_RNA_1	D1 DE media  -> D2 aNE media	SRX27292386
+GSM8718655	aNE_RNA_2	D1 DE media  -> D2 aNE media	SRX27292387
+GSM8718656	aNE_T_RNA_1	D1 DE media  -> D2 aNE media -> D4 Forebrain media	SRX27292388
+GSM8718657	aNE_T_RNA_2	D1 DE media  -> D2 aNE media -> D4 Forebrain media	SRX27292389
+GSM8718658	aNE_M_RNA_1	D1 DE media  -> D2 aNE media -> D4 Midbrain media	SRX27292390
+GSM8718659	aNE_M_RNA_2	D1 DE media  -> D2 aNE media -> D4 Midbrain media	SRX27292391
+GSM8718660	aNE_H_RNA_1	D1 DE media  -> D2 aNE media -> D4 Hindbrain media	SRX27292392
+GSM8718661	aNE_H_RNA_2	D1 DE media  -> D2 aNE media -> D4 Hindbrain media	SRX27292393
+GSM8718662	pNE_RNA_1	D1 DE media  -> D2 pNE media	SRX27292394
+GSM8718663	pNE_RNA_2	D1 DE media  -> D2 pNE media	SRX27292395
+GSM8718664	pNE_T_RNA_1	D1 DE media  -> D2 pNE media -> D4 Forebrain Media	SRX27292396
+GSM8718665	pNE_T_RNA_2	D1 DE media  -> D2 pNE media -> D4 Forebrain Media	SRX27292397
+GSM8718666	pNE_M_RNA_1	D1 DE media  -> D2 pNE media -> D4 Midbrain Media	SRX27292398
+GSM8718667	pNE_M_RNA_2	D1 DE media  -> D2 pNE media -> D4 Midbrain Media	SRX27292399
+GSM8718668	pNE_H_RNA_1	D1 DE media  -> D2 pNE media -> D4 Hindbrain Media	SRX27292400
+GSM8718669	pNE_H_RNA_2	D1 DE media  -> D2 pNE media -> D4 Hindbrain Media	SRX27292401
